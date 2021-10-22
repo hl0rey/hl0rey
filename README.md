@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hl0rey&show_icons=true&theme=dark&count_private=true)
+
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hl0rey&theme=dark&layout=compact)
+
+
+![](https://profile-counter.glitch.me/hl0rey/count.svg)
