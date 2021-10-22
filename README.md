@@ -1,4 +1,4 @@
-### Hi there 👋
+### 一个正在上班的无产阶级 👋
 
 <!--
 **hl0rey/hl0rey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-一个正在上班的无产阶级
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hl0rey&show_icons=true&theme=dark&count_private=true)
 
